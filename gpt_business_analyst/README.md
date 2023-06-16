@@ -3,7 +3,7 @@ This project highlights how to use a ChromaDB vectorstore in a Langchain pipelin
 You can load in a pdf based document and use it with an LLM without the need for fine tuning. 
 
 
-# Startup 🚀
+# Startup 
 1. Create a virtual environment `python -m venv langchainenv`
 2. Activate it: 
    - Windows:`.\langchainenv\Scripts\activate`
