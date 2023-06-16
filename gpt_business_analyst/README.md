@@ -15,7 +15,7 @@ You can load in a pdf based document and use it with an LLM without the need for
 8. Ask your questions   
 
 # Other References 🔗
-<p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
+<p>The main Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
 </a></p>
 
 
